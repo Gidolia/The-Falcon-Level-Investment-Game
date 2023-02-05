@@ -1,0 +1,591 @@
+[22-Feb-2021 05:04:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 05:04:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 05:04:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 05:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 05:08:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 05:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 05:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 17:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 17:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 17:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 17:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 17:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 17:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 17:58:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php:11
+Stack trace:
+#0 /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/index.php(1): include()
+#1 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/falcon_config.php on line 11
+[22-Feb-2021 19:27:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/c_pass_process.php on line 15
+[22-Feb-2021 19:28:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/c_pass_process.php on line 15
+[28-Feb-2021 20:41:01 UTC] PHP Warning:  Use of undefined constant update_profile - assumed 'update_profile' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/update_profile_process.php on line 3
+[28-Feb-2021 20:42:26 UTC] PHP Warning:  Use of undefined constant update_profile - assumed 'update_profile' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/update_profile_process.php on line 3
+[28-Feb-2021 20:44:15 UTC] PHP Warning:  Use of undefined constant update_profile - assumed 'update_profile' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/update_profile_process.php on line 3
+[28-Feb-2021 20:44:18 UTC] PHP Warning:  Use of undefined constant update_profile - assumed 'update_profile' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/update_profile_process.php on line 3
+[02-Mar-2021 19:03:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 128
+[02-Mar-2021 19:03:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 128
+[02-Mar-2021 19:03:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 128
+[02-Mar-2021 19:03:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 128
+[02-Mar-2021 19:42:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:42:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:42:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:42:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:42:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:42:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:42:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:42:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:43:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[02-Mar-2021 19:43:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 240
+[03-Mar-2021 01:39:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_amount_pross.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_amount_pross.php on line 14
+[03-Mar-2021 01:39:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_amount_pross.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_amount_pross.php on line 14
+[03-Mar-2021 01:40:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_amount_pross.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_amount_pross.php on line 14
+[03-Mar-2021 15:31:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 116
+[03-Mar-2021 15:33:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 16:06:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 16:07:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 16:17:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 16:22:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 16:22:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 17:36:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 17:36:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 17:37:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 17:37:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 17:42:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 17:44:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 115
+[03-Mar-2021 13:09:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 250
+[03-Mar-2021 13:10:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/withdraw.php on line 250
+[04-Mar-2021 21:18:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 253
+[04-Mar-2021 22:31:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 108
+[04-Mar-2021 22:31:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 108
+[04-Mar-2021 22:42:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 104
+[04-Mar-2021 22:42:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 104
+[04-Mar-2021 22:53:51 UTC] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 116
+[04-Mar-2021 22:54:00 UTC] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 116
+[10-Mar-2021 00:12:35 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 45
+[10-Mar-2021 23:26:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 267
+[10-Mar-2021 23:27:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 267
+[10-Mar-2021 23:31:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 268
+[10-Mar-2021 23:31:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 268
+[10-Mar-2021 23:31:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 268
+[11-Mar-2021 06:01:19 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 50
+[11-Mar-2021 06:04:30 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 50
+[11-Mar-2021 06:04:30 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 53
+[11-Mar-2021 06:04:30 Asia/Calcutta] PHP Warning:  Use of undefined constant amount - assumed 'amount' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 53
+[11-Mar-2021 06:06:42 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 50
+[11-Mar-2021 06:20:27 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 50
+[11-Mar-2021 06:20:27 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 53
+[11-Mar-2021 06:24:03 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 50
+[11-Mar-2021 00:59:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 73
+[11-Mar-2021 07:10:22 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 53
+[11-Mar-2021 07:19:59 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 53
+[11-Mar-2021 07:22:04 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 53
+[11-Mar-2021 17:54:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 75
+[11-Mar-2021 17:54:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 75
+[11-Mar-2021 17:54:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 75
+[11-Mar-2021 17:54:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 75
+[11-Mar-2021 17:54:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 75
+[11-Mar-2021 17:58:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 75
+[11-Mar-2021 23:37:07 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 53
+[11-Mar-2021 23:42:06 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 53
+[12-Mar-2021 22:37:24 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[12-Mar-2021 22:40:47 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[12-Mar-2021 22:44:30 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 00:41:41 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[12-Mar-2021 19:15:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 78
+[13-Mar-2021 00:46:30 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 00:46:30 Asia/Calcutta] PHP Warning:  mysqli::query(): Empty query in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 69
+[13-Mar-2021 00:48:49 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 00:48:49 Asia/Calcutta] PHP Warning:  mysqli::query(): Empty query in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 69
+[13-Mar-2021 00:52:59 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 00:52:59 Asia/Calcutta] PHP Warning:  mysqli::query(): Empty query in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 70
+[13-Mar-2021 00:54:40 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 00:54:40 Asia/Calcutta] PHP Warning:  mysqli::query(): Empty query in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 70
+[13-Mar-2021 00:57:41 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:01:50 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:02:23 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:03:01 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:03:01 Asia/Calcutta] PHP Warning:  mysqli::query(): Empty query in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 69
+[13-Mar-2021 01:05:42 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:07:05 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:07:41 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:08:13 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:17:19 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:24:18 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 51
+[13-Mar-2021 01:32:49 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
+[13-Mar-2021 02:00:39 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
+[13-Mar-2021 02:05:37 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
+[17-Mar-2021 00:56:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php:287
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 287
+[17-Mar-2021 00:56:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php:287
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 287
+[17-Mar-2021 00:56:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php:287
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 287
+[17-Mar-2021 00:57:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php:287
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 287
+[17-Mar-2021 00:57:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php:287
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 287
+[17-Mar-2021 09:19:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 13:23:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 13:24:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 13:24:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 13:25:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 16:00:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 16:02:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 16:03:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 21:22:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 21:37:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 22:17:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[17-Mar-2021 22:17:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[18-Mar-2021 00:32:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[18-Mar-2021 00:32:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[18-Mar-2021 00:32:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[18-Mar-2021 00:32:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[18-Mar-2021 00:33:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[18-Mar-2021 00:33:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[18-Mar-2021 00:33:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/add_money.php on line 138
+[18-Mar-2021 02:14:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 81
+[18-Mar-2021 02:14:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 81
+[18-Mar-2021 02:14:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 81
+[18-Mar-2021 02:14:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 81
+[18-Mar-2021 02:15:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 81
+[18-Mar-2021 02:15:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 81
+[18-Mar-2021 02:15:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 81
+[18-Mar-2021 02:15:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 81
+[18-Mar-2021 02:29:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 102
+[18-Mar-2021 02:29:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 102
+[18-Mar-2021 22:39:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 159
+[18-Mar-2021 22:39:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 159
+[18-Mar-2021 22:48:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/my_invites.php on line 159
+[19-Mar-2021 14:54:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 143
+[19-Mar-2021 14:54:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 143
+[19-Mar-2021 14:54:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 143
+[19-Mar-2021 15:01:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 143
+[19-Mar-2021 15:01:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 143
+[19-Mar-2021 10:12:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 195
+[23-Mar-2021 09:38:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function distribute_recharge_income() in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 133
+[23-Mar-2021 12:21:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function distribute_recharge_income() in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 135
+[23-Mar-2021 07:09:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 165
+[23-Mar-2021 07:09:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/mobile_recharge.php on line 165
+[23-Mar-2021 16:53:50 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
+[23-Mar-2021 11:58:14 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/bank_details.php on line 212
+[23-Mar-2021 11:58:17 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/bank_details.php on line 212
+[24-Mar-2021 17:05:20 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
+[26-Mar-2021 13:50:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/confirm_withdraw_request.php on line 332
+[26-Mar-2021 13:51:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/confirm_withdraw_request.php on line 332
+[26-Mar-2021 17:43:57 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/confirm_withdraw_request.php on line 143
+[28-Mar-2021 21:06:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 168
+[28-Mar-2021 21:07:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 208
+[28-Mar-2021 21:07:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 208
+[28-Mar-2021 21:07:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 208
+[29-Mar-2021 03:35:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 124
+[29-Mar-2021 03:36:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 124
+[29-Mar-2021 03:37:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 124
+[29-Mar-2021 03:37:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 124
+[28-Mar-2021 22:24:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 326
+[28-Mar-2021 22:24:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 326
+[29-Mar-2021 04:08:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 152
+[28-Mar-2021 23:32:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 312
+[28-Mar-2021 23:32:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 312
+[29-Mar-2021 00:00:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 300
+[29-Mar-2021 00:07:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 124
+[29-Mar-2021 05:53:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 196
+[29-Mar-2021 05:53:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 196
+[29-Mar-2021 05:53:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 196
+[29-Mar-2021 05:54:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 196
+[29-Mar-2021 05:54:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 196
+[29-Mar-2021 05:58:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 194
+[29-Mar-2021 06:04:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/today_task.php on line 163
+[29-Mar-2021 00:51:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 340
+[29-Mar-2021 01:02:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 340
+[29-Mar-2021 01:02:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 340
+[29-Mar-2021 01:09:37 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 143
+[29-Mar-2021 01:10:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 339
+[29-Mar-2021 01:26:25 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 1
+[29-Mar-2021 01:26:25 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 1
+[29-Mar-2021 01:26:25 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 2
+[29-Mar-2021 01:26:25 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 2
+[29-Mar-2021 01:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 81
+[29-Mar-2021 01:27:30 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 1
+[29-Mar-2021 01:27:30 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 1
+[29-Mar-2021 01:27:30 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 2
+[29-Mar-2021 01:27:30 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 2
+[29-Mar-2021 01:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 81
+[29-Mar-2021 01:27:35 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 1
+[29-Mar-2021 01:27:35 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 1
+[29-Mar-2021 01:27:35 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 2
+[29-Mar-2021 01:27:35 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 2
+[29-Mar-2021 01:27:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/tasktest.php on line 81
+[29-Mar-2021 08:24:46 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
+[29-Mar-2021 08:24:46 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
+[29-Mar-2021 09:30:35 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
+[02-Apr-2021 23:16:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:16:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:19:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:19:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:20:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:22:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:22:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:23:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:23:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:23:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:23:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:24:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:24:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:25:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:25:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:25:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:26:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:26:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 75
+[02-Apr-2021 23:28:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:28:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:28:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:28:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 74
+[02-Apr-2021 23:48:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/total_my_invites.php on line 63
+[02-Apr-2021 19:14:52 UTC] PHP Parse error:  syntax error, unexpected '"day"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/try.php on line 5
+[02-Apr-2021 19:14:53 UTC] PHP Parse error:  syntax error, unexpected '"day"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/try.php on line 5
+[04-Apr-2021 07:28:41 Asia/Calcutta] PHP Warning:  Use of undefined constant wallet_balance - assumed 'wallet_balance' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/the-falcon.in/Falcon/process_add_money.php on line 71
